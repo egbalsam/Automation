@@ -1,0 +1,3 @@
+EXEC xp_ReadErrorLog
+
+EXEC ('SELECT TOP 10 * FROM STOCKS')
