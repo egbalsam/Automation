@@ -1,0 +1,1 @@
+This project is to pull data from Reddit using python for the purposes of creating content.
